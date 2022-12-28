@@ -1,4 +1,22 @@
-{
-  "name": "jQuery-menu-aim",
-  "version": "1.0.0"
+ {
+  "name": "jquery-menu-aim",
+  "version": "1.0.0",
+  "description": "jQuery-menu-aim ===============",
+  "main": "jquery.menu-aim.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regru/jQuery-menu-aim.git"
+  },
+  "author": "Ben Kamens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vyushkoff/jQuery-menu-aim/issues"
+  },
+  "homepage": "https://github.com/vyushkoff/jQuery-menu-aim#readme"
 }
